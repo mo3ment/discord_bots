@@ -1,0 +1,10 @@
+name: Sakura
+version: '1.0-SNAPSHOT'
+main: tomodachi.sakura.Sakura
+api-version: 1.16
+authors: [ tomodachi ]
+description: A plugin that gives players an inventory on the go! Also allows moderators to check other players' inventories using /inv <player>.
+commands:
+  inv:
+    description: Opens Sakura's inventory.
+    usage: /<command>

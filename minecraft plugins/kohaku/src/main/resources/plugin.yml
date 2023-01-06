@@ -1,0 +1,6 @@
+name: Kohaku
+version: '${project.version}'
+main: tomodachi.kohaku.Kohaku
+api-version: 1.16
+authors: [ tomodachi ]
+description: An anti-among us plugin.

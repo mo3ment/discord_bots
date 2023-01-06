@@ -1,0 +1,5 @@
+name: Asuka
+version: '${project.version}'
+main: tomodachi.asuka.Asuka
+api-version: 1.16
+description: A simple color-coded server reminder.
